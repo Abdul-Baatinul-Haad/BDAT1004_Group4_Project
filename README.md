@@ -13,5 +13,7 @@ Instructions to use the website: 1. To view the list of teams in American NBA, c
                                  2. To view percentage of teams in each division, click the Divisions tab.
                                  3. To view percentage of teams in each conference, click the Conferences tab.
                                  4. To navigate back to the Home page, click the Home tab.
-                    
+
+Each important section of the code has been uploaded.
+But the zip file with the format .rar, has all the code, and is easier to download
   
